@@ -263,7 +263,7 @@
 .container{
     background: url(image/img_slider02.jpg);
     background-repeat: no-repeat;
-    background-size: 140% auto;
+    background-size: 100% auto;
     height: 520px;
     background-position:center center;
     padding-left: 50px;
